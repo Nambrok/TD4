@@ -14,6 +14,14 @@ nav {
     font-size:15px;
 }
 
+h2 {
+	text-align:center;
+	font-family:Arial;
+	}
+
+
+
+
 nav ul{
 	list-style-type:none;
 }
